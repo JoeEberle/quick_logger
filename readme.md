@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Library For Logging And Debugging 
-    ## 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
+    
+# Library For Logging And Debugging 
+
+## 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
+
     
 Welcome to the solution **Library For Logging And Debugging** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Library For Logging And Debugging** solution repositor
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Library For Logging And Debugging** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  
