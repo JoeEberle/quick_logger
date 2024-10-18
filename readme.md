@@ -1,9 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Library For Logging And Debugging - 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
-2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
-
+![Image image_filename](solution_sign.png)# Library For Logging And Debugging - 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
 Welcome to the solution **Library For Logging And Debugging** - an example for your projects
 
 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
@@ -22,6 +17,9 @@ To get started with the **Library For Logging And Debugging** solution repositor
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -31,13 +29,11 @@ To get started with the **Library For Logging And Debugging** solution repositor
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
