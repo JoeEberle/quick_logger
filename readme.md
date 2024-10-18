@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Library For Logging And Debugging - 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
+![Image image_filename](solution_sign.png)
+    # Library For Logging And Debugging 
+    ## 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
+    
 Welcome to the solution **Library For Logging And Debugging** - an example for your projects
 
 2024-03-15 10:39:07,382 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
@@ -12,12 +15,15 @@ To get started with the **Library For Logging And Debugging** solution repositor
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
